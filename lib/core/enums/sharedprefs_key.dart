@@ -3,5 +3,5 @@ enum SharedPrefsKey {
   userId,
   name,
   email,
-  phone,
+  phoneNumber,
 }
